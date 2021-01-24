@@ -1,0 +1,15 @@
+for manual testing:
+- front end testing excel file is included
+- back end testing also included as an excel file (it is not completed because i found many missing parts in your source code)
+noting that back end testing can't be manually.
+I used microsoft excel 2007
+
+for automation testing, i used Eclipse IDE for Java Developers Version: 2020-12 (4.18.0) using selenium and TestNG and maven
+I upload the project on my github account, the link is provided in the email
+
+getting started:
+
+run the code included in link which is in webPortal(SeleniumJava master) src/test/java (UI package with two classes)
+- ExpertShow class is to ensure that experts pages displayed successfully
+- consultionPage class for submitting the consultion which contains many mistakes and missing parts in the code
+yyou can run the test as testNG and check results
